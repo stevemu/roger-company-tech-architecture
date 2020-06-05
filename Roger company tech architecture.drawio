@@ -1,1 +1,72 @@
-<mxfile modified="2020-05-25T23:13:51.412Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="GYHuvROI1knkSpH0UQ-b" version="13.1.3" type="github"><diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">7Vpdb+I4FP01SLMPVHE+CDxCoN2uWhWpM5rHyiQm8dTEWccp0F+/duKQOAm0M3RLkWiRGp/c2Nf3nnvsuPQsb7W5YTCJ7mmASM80gk3PmvZM07QdQ/yRyLZAgGM5BRIyHCisAh7xK1KgejDMcIBSzZBTSjhOdNCncYx8rmGQMbrWzZaU6KMmMEQt4NGHpI3+xAGPFAoGo+rG3wiHkRp6aLrFjRUsjdVM0ggGdF2DrFnP8hilvLhabTxEZPTKuBTPXe+5u3OMoZi/54Efs9f5j/H44ZZd93E6DB3P/bfv2kU3L5Bkasbjn48C8AjNAuU435bRSCiOeR5RZyI+YkDP6DnijidbV6bTAJptVwdAuyX70IFm29UB0OweNMYHTQdrQKuldW80xjdqDoqPNaEZJzhG3o57hgBDBgMscuJRQpnAYhqL6E0iviKiBcTlOsIcPSbQl1Fdi8IR2JLGXLEfmGVbBV72KtiTyOvVJpSVdgXXqX0VMpol+ZC3gv+dd5/E5ZMvk/kECZcdcUafUelcz7TE77VkzGSJCWk4/YIYx6IYxgSHsn9O5XBQtQha5j2KmeA4vMtbU8tQ3ncNEcA0QoGaEoELRCbQf5aOxkHNfpn/CJM2xxXtpWNoU4MU528QXSHOtsJE3bVU+SkB6o9Ue11V89BQWFQr5NFQgVApSLjruioycaHq7Ddqbjhs1Vyr0FAgVEg1KeMRDWkMyaxCJ3nMdrGsbO6ozFHOs1+I860iFcw41VmI4mAsBVKOkKC4QK6xnEvBuJwopeiZh7KR0oz56JDMDApDOa2DSWOIQI5fdPHtyoB6dC4FqZZsU882cEdXwKj9mHqPHLIQcdVJlVYRF7itmSnZ2zusadv6sMORLsVv2bujBqsKDyqO7UL057Qrc1CX+vmtAG4gR2u4bXGwU932VfYe1atrijR3XbF0tlRIGWvqUErPnVSJOU0xx7nELSjndPWmNvnCF8R0xr+lsTBNioku8Ub6McnzjtjsBRWrHtgnxHTxK3/ykzQNNGjed9qi5g7bmlZiHy5pwHiHpumK1bUI1nK1J5AdtGqSB3xMjIe2HmO3I8bA6Vg4gP0BC8d3e+a/RsSfT6H/YCEf/MMe+u6XWDc6lfzNZaFzQsr/QoUP2A2OXCyOirrZivrMk8A3oZ5/XUTzM0WzVb0dtNu/EWzuDezPE839rO4i1j2NQzqdXMh1PuSyS5Z8FXK11+PxKiF4KX3+5mWpyJhIhmksmQi5mOSFbOdDtpEuZPbAPC3XRoe4NhVZXVDIgopswYVs50O2L8e23Xnque56gf3ObS9wj9z3/tFhhvAPaBkvj9D2nWYAc3TI/ujTjINBrInOBPNF5j8jflGXs1GXPhg2duXgxBuns3+pBu475cU8Ul2OCjNoH2Z4NEBznCBZqpcSPpsSbuwPLOPUBWy1mPVoyZ1ogn2eMZRedp/nQ67G6jA49Wu16bTI9X2NCaYXTp0Np5pbjr5pn/qVpn0UeA8xCbP4QquzoZXlNGn1//1XTjSrLw4Vr1TV96+s2X8=</diagram></mxfile>
+<mxfile modified="2020-06-05T18:14:44.666Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="WbWdxRoh0DRGDzj0SXC3" version="13.1.3" type="github">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+    <mxGraphModel dx="2595" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UEzPUAAOIrF-is8g5C7q-74" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="30" y="-90" width="800" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="UEzPUAAOIrF-is8g5C7q-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;" parent="1" source="UEzPUAAOIrF-is8g5C7q-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="179.10000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="244" y="189" />
+              <mxPoint x="244" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEzPUAAOIrF-is8g5C7q-76" value="ELB" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-50" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="UEzPUAAOIrF-is8g5C7q-108" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="750" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T4EczhlcPDacO3ec1JrO-2" target="T4EczhlcPDacO3ec1JrO-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-2" value="EC2 (API)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="320" y="140" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-6" value="EC2 (MongoDB)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="478" y="140" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-8" value="Amplify (Customer frontent)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="90" y="462" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-9" value="Amplify (Dashboard frontend)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="90" y="630" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T4EczhlcPDacO3ec1JrO-14" target="T4EczhlcPDacO3ec1JrO-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-141" y="230" />
+              <mxPoint x="129" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-14" value="Bitbucket" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="110" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T4EczhlcPDacO3ec1JrO-17" target="T4EczhlcPDacO3ec1JrO-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-17" value="CodePipeline" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="90" y="300" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-23" value="S3 (pictures)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="510" y="-60" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-25" value="Twilio" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-280" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="T4EczhlcPDacO3ec1JrO-26" value="Mailgun" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="340" y="-280" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="XAU239OhJhY_9RCymrgF-1" value="SES" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-60" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
