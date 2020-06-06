@@ -1,6 +1,6 @@
-<mxfile modified="2020-06-05T18:14:44.666Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="WbWdxRoh0DRGDzj0SXC3" version="13.1.3" type="github">
+<mxfile modified="2020-06-06T02:02:04.784Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="r5VPYC8QcWSY8_fgQjam" version="13.1.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2595" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2455" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="90" y="462" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="T4EczhlcPDacO3ec1JrO-9" value="Amplify (Dashboard frontend)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="90" y="630" width="78" height="78" as="geometry" />
+          <mxGeometry x="90" y="620" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="T4EczhlcPDacO3ec1JrO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T4EczhlcPDacO3ec1JrO-14" target="T4EczhlcPDacO3ec1JrO-17" edge="1">
           <mxGeometry relative="1" as="geometry">
